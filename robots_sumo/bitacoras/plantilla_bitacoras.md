@@ -2,26 +2,26 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
-## Integrantes:
--
--
--
+## Equipo: Los Rodri Stones
+## Nombre del Robot: eRodri
+## Capitán: Rodríguez Lautaro
+## Subcapitán: Rodríguez Santino
+## Integrantes: 
+- Sosa Ramiro
+- Puerta Faustino
+- Sofia Tomás Gaspodino
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 05/10/2026
 ### Integrantes presentes:
--
--
+
+- Todos
 -
 
 ### Objetivos de la jornada:
--
--
--
+- Código para el puente H
+- Armar el robot
+- Diagrama esquemático
 
 ### Actividades realizadas:
 -
@@ -29,7 +29,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### Problemas encontrados:
--
+- Falta de piezas
 -
 -
 
