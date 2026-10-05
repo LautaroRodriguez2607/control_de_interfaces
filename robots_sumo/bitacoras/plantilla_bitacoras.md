@@ -5,7 +5,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## Equipo: Los Rodri Stones
 ## Nombre del Robot: eRodri
 ## Capitán: Rodríguez Lautaro
-## Subcapitán: Rodríguez Santino
+## Subcapitán: Rodríguez Flores Santino
 ## Integrantes: 
 - Sosa Ramiro
 - Puerta Faustino
@@ -14,9 +14,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 05/10/2026
 ### Integrantes presentes:
-
 - Todos
--
 
 ### Objetivos de la jornada:
 - Código para el puente H
@@ -24,29 +22,29 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Diagrama esquemático
 
 ### Actividades realizadas:
--
--
--
+- Se trabajó en la realización del diagrama esquematico.
+- Se construyó el código en C.
+- Se soldaron los cables de alimentación para cada motor.
 
 ### Problemas encontrados:
-- Falta de piezas
--
+- Obtuvimos una falta de materiales.
+- 
 -
 
 ### Soluciones implementadas o propuestas:
--
+- Hicimos una lista que entregamos a la profesora para aclarar los materiales que nos estan faltando.
 -
 -
 
 ### Pruebas realizadas:
--
+- hicimos una prueba del codigo en el programa y el codigo actuo como lo esperado
 -
 -
 
 ### Resultados obtenidos:
--
--
--
+- motores con cables de alimentación
+- un codigo actuando con lado positivo
+-un borrador del diagrama esquematico
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
@@ -56,22 +54,22 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: LAUTARO RODRIGUEZ
 
-Tarea realizada:
+Tarea realizada: Construyó activamente el código en el programa C.
 
-Integrante: ____________________________
+Integrante: FAUSTINO PUERTA
 
-Tarea realizada:
+Tarea realizada: Armó la estructura del robot y participó en el diagrama esquemático.
 
-Integrante: ____________________________
+Integrante: RAMIRO SOSA
 
-Tarea realizada:
+Tarea realizada: Soldó los cables para cada motor, se encargo de la bitácora. 
 
-Integrante: ____________________________
+Integrante: SANTINO RODRIGUEZ FLORES
 
-Tarea realizada:
+Tarea realizada: Construyó el diagrama esquemático.
 
-Integrante: ____________________________
+Integrante: TOMAS SOFIA
 
-Tarea realizada:
+Tarea realizada: Armó la estructura del robot, participó en el diagrama esquemático y tuvo una participación en la construcción del código.
