@@ -49,9 +49,10 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 ### Tareas pendientes:
--
--
--
+- Imagen del borrador del diagrama esquematico.
+- Terminar el codigo del programa C.
+- Poner en prueba el funcionamiento del codigo.
+- Pasar el codigo a la raspberry Pipico w
 
 ### APORTES INDIVIDUALES
 Integrante: LAUTARO RODRIGUEZ
@@ -64,7 +65,7 @@ Tarea realizada: Armó la estructura del robot y participó en el diagrama esque
 
 Integrante: RAMIRO SOSA
 
-Tarea realizada: Soldó los cables para cada motor, se encargo de la bitácora. 
+Tarea realizada: Soldó los cables para cada motor, investigacion del proyecto, se encargo de la bitácora. 
 
 Integrante: SANTINO RODRIGUEZ FLORES
 
