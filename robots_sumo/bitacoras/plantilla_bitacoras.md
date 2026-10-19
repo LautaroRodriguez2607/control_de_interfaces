@@ -2,26 +2,30 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo: ______________Los Rodri Stones_________________
+## Nombre del Robot: _______eRodri_______________
+## Capitán: _________Lautaro Rodriguez______________________
+## Subcapitán: ____________Rodriguez F. Santino________________
 ## Integrantes:
--
--
--
+-Lautaro Rodriguez
+-Santino Rodriguez F.
+-Faustino Puerta
+-Tomas Sofia 
+-Ramiro Sosa
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 19/10
 ### Integrantes presentes:
--
--
--
+-Lautaro Rodriguez
+-Santino Rodriguez F.
+-Faustino Puerta
+-Tomas Sofia 
+-Ramiro Sosa
 
 ### Objetivos de la jornada:
--
--
--
+-Terminar la estructura del robot
+-Terminar el sistema esquematico 
+-Pasar el codigo a la raspberry mediante la protoboard
 
 ### Actividades realizadas:
 -
@@ -29,7 +33,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### Problemas encontrados:
--
+-Falta de componentes
 -
 -
 
@@ -56,19 +60,23 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Integrante: __________Rodriguez Lautaro__________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: ___________Rodriguez F. Santino _________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: _________Puerta Faustino___________________
 
 Tarea realizada:
 
-Integrante: ____________________________
+Integrante: _________Sofia Tomas__________________
+
+Tarea realizada:
+
+Integrante: _________Sosa Ramiro__________________
 
 Tarea realizada:
 
