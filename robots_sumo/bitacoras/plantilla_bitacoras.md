@@ -47,6 +47,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -un borrador del diagrama esquematico
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0ed0950-332a-4062-a32a-b4573da9d767" />
+
 
 ### Tareas pendientes:
 - Imagen del borrador del diagrama esquematico.
