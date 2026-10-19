@@ -1,0 +1,1 @@
+Imágenes para las bitácoras
