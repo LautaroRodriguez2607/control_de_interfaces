@@ -55,7 +55,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 ![diagrama](img/esuqmeaticp.jpeg)
-![imagen de tomas sofia ayudando a lauti a armar el code(img/fasuti2.jpeg)
+![imagen de tomas sofia ayudando a lauti a armar el code(img/fausti 2.jpeg)
 ![imagen de Faustino Puerta y rodriguez flores armando el diagrama esquematico](img/fausti3.jpeg)
 ![imagen de sosa armando el sistema electronico de el robot](img/sosa.jpeg)
 
