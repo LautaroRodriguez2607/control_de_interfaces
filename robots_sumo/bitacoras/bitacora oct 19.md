@@ -56,7 +56,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 ![diagrama](img/esuqmeaticp.jpeg)
 ![imagen de tomas sofia ayudando a lauti a armar el code](img/IMG_9696.jpeg)
-![imagen de Faustino Puerta y rodriguez flores armando el diagrama esquematico](img/fausti3.jpeg)
+
 ![imagen de sosa armando el sistema electronico de el robot](img/sosa.jpeg)
 ![imagen de faustino y rodriguez haciendo el diagrama esquematico](img/IMG_9700.jpeg)
 
