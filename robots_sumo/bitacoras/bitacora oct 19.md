@@ -71,15 +71,15 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ___Rodriguez Lautaro_______
+Integrante: ___Lautaro Rodriguez_______
 
 Tarea realizada:se enfoco en el desarrollo del codigo 
 
-Integrante: ____Rodriguez F. Santino ______
+Integrante: ____Santino Rodriguez F. ______
 
 Tarea realizada:se enfoco en el desarrollo del diagrama esquematico
 
-Integrante: ____Puerta Faustino______
+Integrante: ____Faustino Puerta______
 
 Tarea realizada:participó en la implementacion de la protoboard,ayudó en la busqueda de errores del diagrama esquematico y realizó la bitacora de la fecha
 
@@ -87,6 +87,6 @@ Integrante: ____Sofia Tomas_______
 
 Tarea realizada:se enfocó en la implementacion de la protoboard, realizo una profunda busqueda de errores en el codigo sin encontrar ninguno y busqueda de componentes 
 
-Integrante: ____Sosa Ramiro_______
+Integrante: ____Ramiro Sosa_______
 
 Tarea realizada:realizo la estructura electronica del robot y busqueda de componentes
